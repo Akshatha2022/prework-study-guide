@@ -1,6 +1,4 @@
-# prework-study-guide
-Learning to code
-# <Your-Project-Title>
+#Prework Study Guide Webpage 
 
 ## Description
 
